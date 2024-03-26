@@ -1,7 +1,7 @@
 ### Hi, I'm Jordan! 👋
 
 ```javascript
-Full Stack Web Developer || ['Photographer', 'Board Gamer'] || UC Berkeley Bootcamp Student
+Full Stack Web Developer && ['Photographer', 'Board Gamer'] && UC Berkeley Bootcamp Student
 ```
 <br>
 
