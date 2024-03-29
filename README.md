@@ -12,3 +12,6 @@ const jordan = {
   tools: [React, Node.js, Express.js, MongoDB, MySQL, NoSQL, Git]
 };
 ```
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JordanFerrario&theme=dark)](https://git.io/streak-stats)
